@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "145304741341",
+    "firebase_url": "https://radio-orma.firebaseio.com",
+    "project_id": "radio-orma",
+    "storage_bucket": "radio-orma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145304741341:android:e4302c9aeb8e2399",
+        "android_client_info": {
+          "package_name": "com.radioorma.www.radioorma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145304741341-34aibnmudqqgrll5liqpqsi5ui9vhbtp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.radioorma.www.radioorma",
+            "certificate_hash": "84f009dc31dff109f26681a6be92f2a7506c31b3"
+          }
+        },
+        {
+          "client_id": "145304741341-rpnfp91kvn76lo5mutkvrmotsoh05kcj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "145304741341-rpnfp91kvn76lo5mutkvrmotsoh05kcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf0E9-gWyj84zD-GQbQk_N9C0-dcDsnDY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145304741341-rpnfp91kvn76lo5mutkvrmotsoh05kcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
