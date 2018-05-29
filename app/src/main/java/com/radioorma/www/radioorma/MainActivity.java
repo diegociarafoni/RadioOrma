@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState){
-        // TODO imparare a committare
+        // TODO imparare a committ
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mWebView = (WebView) findViewById(R.id.activity_main_webview);
