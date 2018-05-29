@@ -10,7 +10,8 @@ public class MainActivity extends AppCompatActivity {
     private WebView mWebView;
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState){
+        // TODO imparare a committare
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mWebView = (WebView) findViewById(R.id.activity_main_webview);
